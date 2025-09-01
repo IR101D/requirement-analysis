@@ -70,6 +70,8 @@ Facilitate communication among stakeholders and development team.<br/>
 
 <img width="622" height="421" alt="alx-booking-uc png" src="https://github.com/user-attachments/assets/45d086f2-f2d4-400a-9182-ef92db9abcd9" />
 
+alx-booking-uc.png
+
 ## Acceptance Criteria
 What is Acceptance Criteria?
 
