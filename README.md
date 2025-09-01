@@ -68,7 +68,8 @@ Provide a clear visual representation of system functionalities.<br/>
 Help in identifying and organizing system requirements.<br/>
 Facilitate communication among stakeholders and development team.<br/>
 
-https://drive.google.com/file/d/1CCtwyiz3BCxf2VEhZDB1nrTpwpTbNdP_/view?usp=sharing
+<img width="622" height="421" alt="alx-booking-uc png" src="https://github.com/user-attachments/assets/45d086f2-f2d4-400a-9182-ef92db9abcd9" />
+
 ## Acceptance Criteria
 What is Acceptance Criteria?
 
